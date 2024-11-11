@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abigail-rick
-- 🌱 I’m currently learning front-end developement
+- 🌱 I’m currently learning React
 - 📫 How to reach me abigail_rick@mailfence.com
 
 
